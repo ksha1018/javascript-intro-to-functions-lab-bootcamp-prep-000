@@ -28,6 +28,7 @@ function sayHiToGrandma(string) {
 
 logShout("kwon")
 logWhisper("KWON")
-sayHiToGrandma("kwon")
+var greet = sayHiToGrandma("kwon")
+console.log(greet)
 
 
