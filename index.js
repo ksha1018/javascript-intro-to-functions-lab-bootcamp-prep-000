@@ -28,5 +28,6 @@ function sayHiToGrandma(string) {
 
 logShout("kwon")
 logWhisper("KWON")
+sayHiToGrandma("Hi there!")
 
 
